@@ -1,5 +1,5 @@
 import os
-from shutil import move
+# from shutil import move
 import os.path as op
 
 pardir = op.abspath(op.pardir)
@@ -12,15 +12,17 @@ for _f in os.listdir(pardir):
 
 
 def append_space(l):
-    if l is not '':
+    if l is not l[-1]:
         if not l.endswith('  '):
             if not l.startswith('#'):
-                l += '  '
+                l = l[0:-1] + '  ' + l[-1]
+    elif l.strip() is '':
+        l = l[-1]
     return l
 
 for _fn in files:
     _fnbak = _fn + ".bak"
-    move(_fn, _fnbak)
+    # move(_fn, _fnbak)
     with open(_fnbak) as _fin:
         with open(_fn, 'w') as _fout:
             for _l in _fin:
