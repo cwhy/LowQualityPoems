@@ -1,5 +1,5 @@
 import os
-# from shutil import move
+from shutil import move
 import os.path as op
 
 pardir = op.abspath(op.pardir)
@@ -22,7 +22,7 @@ def append_space(l):
 
 for _fn in files:
     _fnbak = _fn + ".bak"
-    # move(_fn, _fnbak)
+    move(_fn, _fnbak)
     with open(_fnbak) as _fin:
         with open(_fn, 'w') as _fout:
             for _l in _fin:
