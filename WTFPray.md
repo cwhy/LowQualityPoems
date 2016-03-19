@@ -1,6 +1,6 @@
 # 莫名的祈祷
 
-## 04/2013
+## 04/2013 on train from Beijing to Nanchang
 
 夜如海面  
 没有一丝的机会给出奇幻的曲线  
