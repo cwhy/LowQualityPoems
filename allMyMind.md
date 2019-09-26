@@ -1,6 +1,6 @@
 # All my mind
 
-# After the "Words" incidence Aug 2019
+## After the "Words" incidence Aug 2019
 
 All my mind think of dirty fabrication
 
