@@ -1,8 +1,8 @@
 # The chest
 
-# 10/19
+## 10/19
 
---We all make different lies to cover the bitterness of the suffering of line,
+* We all make different lies to cover the bitterness of the suffering of life,
  hence our insecurities. We live in the world our minds has created.
  But if there are any fragile walls of lie fallen, we crumble.
 
