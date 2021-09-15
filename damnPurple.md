@@ -13,7 +13,7 @@ still not over the show
 
 No you have no chances for a Jazz star, god
 
-nor a poet splitting romance
+nor a poet spitting romance
 
 Enjoy the fan part,
 
