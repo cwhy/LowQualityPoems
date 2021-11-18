@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkfoam=self.webpackChunkfoam||[]).push([[902],{83:function(e,n,u){u.r(n);var t=u(67294);n.default=function(){return t.createElement("h1",null,"Page Not Found")}}}]);
-//# sourceMappingURL=component---node-modules-gatsby-philipps-foam-theme-src-pages-404-js-961ad1c9882c99dcc454.js.map
