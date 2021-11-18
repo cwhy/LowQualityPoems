@@ -5,7 +5,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: `gatsby-theme-garden`,
+      resolve: `gatsby-philipps-foam-theme`,
       options: {
         rootNote: "/README",
         contentPath: `${__dirname}/..`,
