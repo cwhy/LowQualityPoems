@@ -1,7 +1,7 @@
 module.exports = {
-  pathPrefix: `/foam-gatsby-template`,
+  pathPrefix: `/LowQualityPoems`,
   siteMetadata: {
-    title: `Foam`,
+    title: `chenyu.I/O`,
   },
   plugins: [
     {
