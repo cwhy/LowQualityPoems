@@ -1,0 +1,93 @@
+{
+  "main": {
+    "id": "ca75f7fe0595d4e2",
+    "type": "split",
+    "children": [
+      {
+        "id": "e556afdf25a35d2c",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a7c951585323cb58",
+    "type": "split",
+    "children": [
+      {
+        "id": "0b06e22ba07f2d2f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b85d76e3c5eaee4a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6e72959922dd698",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e18bda4a050c79b5",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5d83b5f60f400f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc4668bd780dc5ee",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e556afdf25a35d2c",
+  "lastOpenFiles": [
+    "FAF.md",
+    "fa.md",
+    "infi3pct.md",
+    "jobs.md",
+    "omg.md"
+  ]
+}
