@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunklow_quality_poems=self.webpackChunklow_quality_poems||[]).push([[902],{83:function(e,u,t){t.r(u);var l=t(67294);u.default=function(){return l.createElement("h1",null,"Page Not Found")}}}]);
-//# sourceMappingURL=component---node-modules-gatsby-philipps-foam-theme-src-pages-404-js-c89dbc947eb7a1f2aafd.js.map
