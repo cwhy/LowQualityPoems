@@ -2,29 +2,29 @@
 
 ## 15/06/2024
 
-How it not being causal  
-How would I want it tell  
+Why it not being causal  
+How would I want to tell  
 Piecing up a shit story  
 That I am doing well  
 Hard to sell  
 
 With all the elements  
-Derive all the setiments  
-Inhale more particals  
+Derive all the sentiments  
+Inhale less particles  
 Control more variables  
 
 Now I learned to hate the world  
 There is no way the prior works  
-No one want to be the first  
-Pretend to be dumb but not coward  
+No one tried to be the first  
+Pretend to be dumb but not a coward  
 
 Too much layers, too thick  
-Finding hard to breath  
+Finding hard to breath, stick  
 Or is it my asthma  
 Or is it just toxic  
 
 Strolling down a narrow path  
-Gods quarreling about stars  
+Gods quarreling about the stars  
 Figuring out about figures  
 Fermented emotion triggers  
 
@@ -40,5 +40,5 @@ With those left ugly parts
 Probably no restarts   
 
 Probably in Bayesian Hell  
-Always in a Bayesian well  
+Always inside a Bayesian well  
 
